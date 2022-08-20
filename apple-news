@@ -1,0 +1,9 @@
+#Title: Apple News Ad-blocking
+
+#Date: 8/19/22
+
+0.0.0.0 *comscoreresearch*
+0.0.0.0 *iadcontent.apple.com*
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 news.iadsdk.apple.com
+0.0.0.0 webproxy-advp.iad-apple.com.akadns.net
